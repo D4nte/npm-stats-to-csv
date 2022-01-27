@@ -1,0 +1,11 @@
+{
+  "name": "npm-stats-to-csv",
+  "version": "1.0.0",
+  "description": "Get npm downloads stats in csv format",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "npm-stats": "^1.2.0"
+  }
+}
